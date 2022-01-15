@@ -38,5 +38,10 @@ git checkout code_commit
 
  git checkout master
 
+ Добавим картинку
+
  ![walle](wall_e_robot_trava_tsvetok_99198_1920x1080.jpg)
- 
+
+Добавим GIFку
+
+ ![duck](duck.gif)
