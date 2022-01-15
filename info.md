@@ -37,3 +37,6 @@ git checkout code_commit
  Чтобы вернуться к самому последнему состоянию:
 
  git checkout master
+
+ ![walle](wall_e_robot_trava_tsvetok_99198_1920x1080.jpg)
+ 
