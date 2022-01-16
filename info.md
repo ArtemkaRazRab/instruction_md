@@ -67,3 +67,7 @@
 7. Добавление картинки
 
 ![walle](wall_e_robot_trava_tsvetok_99198_1920x1080.jpg)
+
+8. Добавление GIF
+
+![duck](duck.gif)
