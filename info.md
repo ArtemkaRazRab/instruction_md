@@ -108,7 +108,7 @@
 
 >--help
 
-Примеры:
+Примеры Primer:
 
 > git add --help
 
