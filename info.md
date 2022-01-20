@@ -76,10 +76,11 @@
 
 ![duck](duck.gif)
 
+
+
 9. Добавление ссылки
 
 [GitHub](https://github.com/)
-
 
 
 ## Ветки в git
